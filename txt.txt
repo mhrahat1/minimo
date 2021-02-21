@@ -1,0 +1,14 @@
+psd to html
+
+font int...
+
+CDN
+Download
+
+missing font:-
+playfairdisplay italic
+playfairdisplay regular
+playfairdisplay black
+playfairdisplay bold
+ubuntu light
+inconsolata regular
